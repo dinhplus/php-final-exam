@@ -1,7 +1,7 @@
 <?php
 class App {
 	protected $controller="Home";
-	protected $action="Hello";
+	protected $action="index";
 	protected $param=[];
 
 	function __construct(){
